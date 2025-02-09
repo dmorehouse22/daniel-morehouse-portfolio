@@ -1,11 +1,29 @@
 ---
-title: "daniel-morehouse-portfolio"
+title: "Daniel Morehouse"
+about:
+  template: jolla
+  image: codingprofile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-morehouse-668952337/
+    - icon: github
+      text: Github
+      href: https://github.com/dmorehouse22
 ---
 
-This is a Quarto website.
+Danny Morehouse is an undergraduate student at California State University, Monterey Bay.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Danbury High School - Danbury, CT
+
+University of Rhode Island - Kingston, RI
+
+Bermuda Institute of Ocean Sciences - St. Georges, BDA
+
+California State University Monterey Bay - Marina, CA
+
+## Experience
+
+Took a course on coding in R (STAT210) at CSUMB
