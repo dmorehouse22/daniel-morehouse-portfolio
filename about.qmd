@@ -1,6 +1,8 @@
 ---
 title: "About"
 ---
+Hello! My name is Danny Morehouse, a third-year undergraduate student currently enrolled at CSUMB through a semester exchange program. I want to get familiar with coding as an aspiring marine biologist, since data organization is a quite the task without it. I hope to work in conservation/restoration one day, ideally somewhere where it's warm. For fun, I love to spend time with friends, be outside in nature, SCUBA dive, and watch sports - go Mets!
+---
 
 About this site
 
