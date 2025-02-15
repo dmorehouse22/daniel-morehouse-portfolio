@@ -1,15 +1,14 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "daniel-morehouse-portfolio"
+  title: "Danny's Portfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: about.qmd
-      text: About Me
+        text: "About Me"
 
 format:
   html:
