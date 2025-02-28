@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Morehouse",
+    "section": "",
+    "text": "Danny Morehouse is an undergraduate student at California State University, Monterey Bay."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Morehouse",
+    "section": "Education",
+    "text": "Education\nDanbury High School - Danbury, CT\nUniversity of Rhode Island - Kingston, RI\nBermuda Institute of Ocean Sciences - St. Georges, BDA\nCalifornia State University Monterey Bay - Marina, CA"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Daniel Morehouse",
+    "section": "Experience",
+    "text": "Experience\nTook a course on coding in R (STAT210) at CSUMB"
   }
 ]
