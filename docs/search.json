@@ -33,5 +33,33 @@
     "title": "Daniel Morehouse",
     "section": "Experience",
     "text": "Experience\nTook a course on coding in R (STAT210) at CSUMB"
+  },
+  {
+    "objectID": "portfolio-planning/portfolio-planning.html",
+    "href": "portfolio-planning/portfolio-planning.html",
+    "title": "Portfolio Part 1: Development & Planning",
+    "section": "",
+    "text": "Identify your data source.\n\nThis data was collected for my independent research project this past fall on the thermal stress response of marine sponges. I recorded data on days 0, 5 and 10 which are all represented on different sheets.\n\nDescribe your data, including variables and data types.\n\nA large majority of the data is double, with some character and values for time of day which I am unsure. Some of the data was specifically required for my logging of the project, not neccesarily for the data analysis.\n\nIdentify the research questions you would like to answer.\n\n\nHow does the respiration rate per hour differ between the ambient and heated treatments?\nHow does the respiration rate per hour differ between the different species of sponge?"
+  },
+  {
+    "objectID": "portfolio-planning/portfolio-planning.html#data-description",
+    "href": "portfolio-planning/portfolio-planning.html#data-description",
+    "title": "Portfolio Part 1: Development & Planning",
+    "section": "",
+    "text": "Identify your data source.\n\nThis data was collected for my independent research project this past fall on the thermal stress response of marine sponges. I recorded data on days 0, 5 and 10 which are all represented on different sheets.\n\nDescribe your data, including variables and data types.\n\nA large majority of the data is double, with some character and values for time of day which I am unsure. Some of the data was specifically required for my logging of the project, not neccesarily for the data analysis.\n\nIdentify the research questions you would like to answer.\n\n\nHow does the respiration rate per hour differ between the ambient and heated treatments?\nHow does the respiration rate per hour differ between the different species of sponge?"
+  },
+  {
+    "objectID": "portfolio-planning/portfolio-planning.html#data-visualization",
+    "href": "portfolio-planning/portfolio-planning.html#data-visualization",
+    "title": "Portfolio Part 1: Development & Planning",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\nWhat do you want your final visualizations to look like?\n\nI want my final visualizations to be line graphs showing the gradual change in respiration rate over the 10-day collection interval.\n\nWhat do you want to highlight in these visualizations in order to answer your research questions?\n\nI want to be able to distinguish between the 2 different variables being compared in the figures (heated/ambient, etherial/fire sponge). I also want to have points within the line to indicate the day of collection throughout the 10-day period.\n\nWhat is missing from your data or what would you need to change in your data to make this possible?\n\nNothing is missing from the data, but I will need to filter out a lot of insignifcant data to make it easier to interpret and code."
+  },
+  {
+    "objectID": "portfolio-planning/portfolio-planning.html#data-cleaning",
+    "href": "portfolio-planning/portfolio-planning.html#data-cleaning",
+    "title": "Portfolio Part 1: Development & Planning",
+    "section": "Data Cleaning",
+    "text": "Data Cleaning\n\nDo you need to deal with any missing data, especially missing data coded other than NA?\n\nYES, I must account for the N/A values in my control chambers that don’t need to be included in the final visualizations.\n\nDo you need to create any new variables? What variables? How?\n\nYES, rather than sample ID, I need to create a variable of sponge type (I can do so using the mutate() function)\n\nAre there any variables you can exclude from your data?\n\nPlenty!"
   }
 ]
