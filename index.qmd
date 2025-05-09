@@ -12,7 +12,7 @@ about:
       href: https://github.com/dmorehouse22
 ---
 
-Danny Morehouse is an undergraduate student at California State University, Monterey Bay.
+Danny Morehouse is an undergraduate student at the University of Rhode Island, participating in an exchange semester at California State University, Monterey Bay.
 
 ## Education
 
@@ -20,7 +20,7 @@ Danbury High School - Danbury, CT
 
 University of Rhode Island - Kingston, RI
 
-Bermuda Institute of Ocean Sciences - St. Georges, BDA
+Bermuda Institute of Ocean Sciences - St. George's, BDA
 
 California State University Monterey Bay - Marina, CA
 
