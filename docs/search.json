@@ -7,20 +7,6 @@
     "text": "This data set comes from my independent Marine Biology & Oceanography Research (MBOR) project that I conducted in Fall 2024 at the Bermuda Institute of Ocean Sciences. On 3 separate collection days, I incubated sponge fragments of 2 different species, one with an active chemical defense (T. ignis) and the other with no defense mechanism (D. etheria). Over the collection period, I wanted to determine if there was a change in thermal stress response between the 2 species. The data that will be used for this project comes from the first day of collection, 11/15/2024.\nThrough this data set, I wanted to answer 2 research questions:\n\nHow does the surface area differ between the two experimental species?\nHow does the respiration rate per hour differ between the ambient and heated treatments for each species?\n\nIn order to achieve these goals, I need to modify the data set to make it easier to work with. I’ll be cleaning this data set in 3 ways to answer my 2 research questions:\n\nRenaming variables in order to manipulate them into code (including modifying variables with mutate)\nSelecting only the variables needed for data visualizations\nReformatting correct oxygen hour & surface area as variable type doubles rather than character\n\nNow that the data is thoroughly cleaned and read in, I can move forward and create the desired figures to hopefully answer my research questions.\n\n\n\n\n\n\n\n\n\nThis figure shows that the fragments of D. etheria were greater in size than the fragments of T. ignis - which corresponds with my experience from sampling. This is an important variable to consider when evaluating respiration rate as a greater surface area could impact the amount of gas exchange occurring.\n\n\n\n\n\n\n\n\n\nThis figure shows that for both species, fragments in the heated treatment had a greater rate of respiration. Between species, the species with an active defense mechanism (T. ignis) had a greater rate of respiration in the heated treatment. It would require more data to evaluate whether or not this is a sign of heat-induced stress or productivity, but it is a great first step on the path to discovering a future bio-identifier in environments of temperature vulnerability."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html#hello-my-name-is-danny-morehouse-a-third-year-undergraduate-student-currently-enrolled-at-csumb-through-a-semester-exchange-program.-i-want-to-get-familiar-with-coding-as-an-aspiring-marine-biologist-since-data-organization-is-a-quite-the-task-without-it.-i-hope-to-work-in-conservationrestoration-one-day-ideally-somewhere-where-its-warm.-for-fun-i-love-to-spend-time-with-friends-be-outside-in-nature-scuba-dive-and-watch-sports---go-mets",
-    "href": "about.html#hello-my-name-is-danny-morehouse-a-third-year-undergraduate-student-currently-enrolled-at-csumb-through-a-semester-exchange-program.-i-want-to-get-familiar-with-coding-as-an-aspiring-marine-biologist-since-data-organization-is-a-quite-the-task-without-it.-i-hope-to-work-in-conservationrestoration-one-day-ideally-somewhere-where-its-warm.-for-fun-i-love-to-spend-time-with-friends-be-outside-in-nature-scuba-dive-and-watch-sports---go-mets",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Daniel Morehouse",
@@ -42,31 +28,17 @@
     "text": "Experience\nTook a course on coding in R (STAT210) at CSUMB"
   },
   {
-    "objectID": "portfolio-planning/portfolio-planning.html",
-    "href": "portfolio-planning/portfolio-planning.html",
-    "title": "Portfolio Part 1: Development & Planning",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Identify your data source.\n\nThis data was collected for my independent research project this past fall on the thermal stress response of marine sponges. I recorded data on days 0, 5 and 10 which are all represented on different sheets.\n\nDescribe your data, including variables and data types.\n\nA large majority of the data is double, with some character and values for time of day which I am unsure. Some of the data was specifically required for my logging of the project, not neccesarily for the data analysis.\n\nIdentify the research questions you would like to answer.\n\n\nHow does the respiration rate per hour differ between the ambient and heated treatments?\nHow does the respiration rate per hour differ between the different species of sponge?"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "portfolio-planning/portfolio-planning.html#data-description",
-    "href": "portfolio-planning/portfolio-planning.html#data-description",
-    "title": "Portfolio Part 1: Development & Planning",
+    "objectID": "about.html#hello-my-name-is-danny-morehouse-a-third-year-undergraduate-student-currently-enrolled-at-csumb-through-a-semester-exchange-program.-i-want-to-get-familiar-with-coding-as-an-aspiring-marine-biologist-since-data-organization-is-a-quite-the-task-without-it.-i-hope-to-work-in-conservationrestoration-one-day-ideally-somewhere-where-its-warm.-for-fun-i-love-to-spend-time-with-friends-be-outside-in-nature-scuba-dive-and-watch-sports---go-mets",
+    "href": "about.html#hello-my-name-is-danny-morehouse-a-third-year-undergraduate-student-currently-enrolled-at-csumb-through-a-semester-exchange-program.-i-want-to-get-familiar-with-coding-as-an-aspiring-marine-biologist-since-data-organization-is-a-quite-the-task-without-it.-i-hope-to-work-in-conservationrestoration-one-day-ideally-somewhere-where-its-warm.-for-fun-i-love-to-spend-time-with-friends-be-outside-in-nature-scuba-dive-and-watch-sports---go-mets",
+    "title": "About",
     "section": "",
-    "text": "Identify your data source.\n\nThis data was collected for my independent research project this past fall on the thermal stress response of marine sponges. I recorded data on days 0, 5 and 10 which are all represented on different sheets.\n\nDescribe your data, including variables and data types.\n\nA large majority of the data is double, with some character and values for time of day which I am unsure. Some of the data was specifically required for my logging of the project, not neccesarily for the data analysis.\n\nIdentify the research questions you would like to answer.\n\n\nHow does the respiration rate per hour differ between the ambient and heated treatments?\nHow does the respiration rate per hour differ between the different species of sponge?"
-  },
-  {
-    "objectID": "portfolio-planning/portfolio-planning.html#data-visualization",
-    "href": "portfolio-planning/portfolio-planning.html#data-visualization",
-    "title": "Portfolio Part 1: Development & Planning",
-    "section": "Data Visualization",
-    "text": "Data Visualization\n\nWhat do you want your final visualizations to look like?\n\nI want my final visualizations to be line graphs showing the gradual change in respiration rate over the 10-day collection interval.\n\nWhat do you want to highlight in these visualizations in order to answer your research questions?\n\nI want to be able to distinguish between the 2 different variables being compared in the figures (heated/ambient, etherial/fire sponge). I also want to have points within the line to indicate the day of collection throughout the 10-day period.\n\nWhat is missing from your data or what would you need to change in your data to make this possible?\n\nNothing is missing from the data, but I will need to filter out a lot of insignifcant data to make it easier to interpret and code."
-  },
-  {
-    "objectID": "portfolio-planning/portfolio-planning.html#data-cleaning",
-    "href": "portfolio-planning/portfolio-planning.html#data-cleaning",
-    "title": "Portfolio Part 1: Development & Planning",
-    "section": "Data Cleaning",
-    "text": "Data Cleaning\n\nDo you need to deal with any missing data, especially missing data coded other than NA?\n\nYES, I must account for the N/A values in my control chambers that don’t need to be included in the final visualizations.\n\nDo you need to create any new variables? What variables? How?\n\nYES, rather than sample ID, I need to create a variable of sponge type (I can do so using the mutate() function)\n\nAre there any variables you can exclude from your data?\n\nPlenty!"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
