@@ -10,7 +10,7 @@ website:
         text: "Home"
       - href: about.qmd
         text: "About Me"
-      - href: data-cleaning-final-project/data-cleaning-final-project.qmd
+      - href: project-portfolio/data-cleaning-final-project.qmd
         text: "Data Cleaning Final Project"
 
 format:
