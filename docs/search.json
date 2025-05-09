@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "data-cleaning-final-project/data-cleaning-final-project.html",
+    "href": "data-cleaning-final-project/data-cleaning-final-project.html",
+    "title": "Data Cleaning Final Project",
+    "section": "",
+    "text": "This data set comes from my independent Marine Biology & Oceanography Research (MBOR) project that I conducted in Fall 2024 at the Bermuda Institute of Ocean Sciences. On 3 separate collection days, I incubated sponge fragments of 2 different species, one with an active chemical defense (T. ignis) and the other with no defense mechanism (D. etheria). Over the collection period, I wanted to determine if there was a change in thermal stress response between the 2 species. The data that will be used for this project comes from the first day of collection, 11/15/2024.\nThrough this data set, I wanted to answer 2 research questions:\n\nHow does the surface area differ between the two experimental species?\nHow does the respiration rate per hour differ between the ambient and heated treatments for each species?\n\nIn order to achieve these goals, I need to modify the data set to make it easier to work with. I’ll be cleaning this data set in 3 ways to answer my 2 research questions:\n\nRenaming variables in order to manipulate them into code (including modifying variables with mutate)\nSelecting only the variables needed for data visualizations\nReformatting correct oxygen hour & surface area as variable type doubles rather than character\n\nNow that the data is thoroughly cleaned and read in, I can move forward and create the desired figures to hopefully answer my research questions.\n\n\n\n\n\n\n\n\n\nThis figure shows that the fragments of D. etheria were greater in size than the fragments of T. ignis - which corresponds with my experience from sampling. This is an important variable to consider when evaluating respiration rate as a greater surface area could impact the amount of gas exchange occurring.\n\n\n\n\n\n\n\n\n\nThis figure shows that for both species, fragments in the heated treatment had a greater rate of respiration. Between species, the species with an active defense mechanism (T. ignis) had a greater rate of respiration in the heated treatment. It would require more data to evaluate whether or not this is a sign of heat-induced stress or productivity, but it is a great first step on the path to discovering a future bio-identifier in environments of temperature vulnerability."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
